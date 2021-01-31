@@ -1,1 +1,4 @@
 # Programe de manipulare a fisierelor, directoarelor in Windows si Ubuntu
+Problema menu.bat - primeste ca parametri un nume de fisier si un subsir pe care il cauta in fisierul creat. Din meniu se alege optiunea dorita, de creare a fisierului cu string-uri introduse de la tastatura, de cautare a substringului in fisier si afisarea numarului de aparitii a sirului in fisier si de afisare in ordine descrescatoare a continutului fisierului. Se creeaza si un director care are numele orei la care s-a creat (director curent). 
+
+Problema deleteExtensions.sh - primeste ca parametri numarul de extensii si tipul extensiilor pe care utilizatorul doreste sa le stearga dintr-un director. Intr-un while se parcurge tot directorul, toate fisierele si se sterg doar cele care au extensia aleasa. La final se afiseaza un mesaj specific.
